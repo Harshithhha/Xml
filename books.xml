@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+<books>
+    <book>
+        <title>Example Book One</title>
+        <author>Jane Doe</author>
+        <isbn>1234567890</isbn>
+        <publisher>Example Publisher</publisher>
+        <edition>1st</edition>
+        <price>29.99</price>
+    </book>
+    <book>
+        <title>Example Book Two</title>
+        <author>John Smith</author>
+        <isbn>0987654321</isbn>
+        <publisher>Another Publisher</publisher>
+        <edition>2nd</edition>
+        <price>35.50</price>
+    </book>
+    <book>
+        <title>Example Book Three</title>
+        <author>Alice Johnson</author>
+        <isbn>1111222233</isbn>
+        <publisher>Yet Another Publisher</publisher>
+        <edition>3rd</edition>
+        <price>45.00</price>
+    </book>
+    <book>
+        <title>Example Book Four</title>
+        <author>Bob Brown</author>
+        <isbn>4444555566</isbn>
+        <publisher>New Publisher</publisher>
+        <edition>4th</edition>
+        <price>39.99</price>
+    </book>
+</books>
